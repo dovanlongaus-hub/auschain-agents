@@ -48,7 +48,7 @@ Primary: DeepSeek Chat (deepseek-chat)
   - Used by: visa-path-aus, cherry-longcare
 
 Secondary: Google Gemini
-  - Key: REDACTED_GOOGLE_API_KEY
+  - Key: [REDACTED - use env var]
   - Used by: suong-chat (backup)
 
 Context: OpenClaw local agent (suong-chat)
